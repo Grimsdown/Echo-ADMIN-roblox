@@ -1,2 +1,2 @@
 -- (STEALING THIS RAW SCRIPT WILL RESULT IN AN OUTDATED VERSION, USE THE LOADSTRING!!!)
--- loadstring(game:HttpGet((""), true))()
+-- loadstring(game:HttpGet(("https://raw.githubusercontent.com/Grimsdown/Echo-ADMIN-roblox/main/RoShrouds-Echo"), true))()
